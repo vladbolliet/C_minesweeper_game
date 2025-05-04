@@ -1,0 +1,11 @@
+10 14
+MMMMMMMMMMMM M
+M          M M
+M       MMMM M
+M            M
+MMMMM   MMMMMM
+M      P     M
+M      R     M
+M            M
+M     B      M
+MMMMMMMMMMMMMM

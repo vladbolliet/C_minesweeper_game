@@ -1,0 +1,40 @@
+Nom du jeu : Minesweeper: Trésors et Blocs Tueurs
+
+Description :
+Vous incarnez un pion explorant une carte de type Démineur 20x20 blocs, mais avec plusieurs mécaniques supplémentaires qui rendent le jeu bien plus intense et dynamique.
+
+But principal : découvrir toutes les cases sans mines pour gagner, comme dans le Minesweeper classique.
+
+Sécurité du premier clic : comme dans le jeu original, la première case cliquée (ainsi que ses huit cases voisines) ne contiendra jamais de mine.
+
+Éléments ajoutés :
+
+Pluie de blocs tueurs rouges :
+Des blocs rouges apparaissent lentement depuis le haut de la carte et descendent lentement vers le bas. Si l’un d’eux touche le joueur, la partie est perdue. Ces blocs agissent comme une pression constante et forcent le joueur à avancer prudemment mais rapidement.
+
+Trésors à collecter :
+Des trésors apparaissent à des endroits aléatoires sur la carte et à des moments aléatoires. Lorsqu’un trésor apparaît :
+
+Il commence avec une couleur dorée brillante.
+
+Sa couleur devient progressivement orange foncé au fil du temps.
+
+Si un trésor n’est pas récupéré dans les 10 secondes, il explose.
+
+Explosion des trésors :
+
+L’explosion d’un trésor ne détruit pas les cases du jeu (ni mines ni nombres).
+
+Elle affecte uniquement le joueur : si vous êtes dans le rayon de l’explosion (3x3), vous perdez.
+
+Cela ajoute une mécanique de risque/récompense, car courir vers un trésor peut vous forcer à prendre des risques vis-à-vis des mines ou des blocs tueurs.
+
+
+-----------------
+
+CURRENT TASK:
+
+//TODO:
+
+
+ultima parte din story
