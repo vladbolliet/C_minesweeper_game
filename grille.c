@@ -6,7 +6,7 @@
 
 Grille* creer_grille(int nb_lignes, int nb_colonnes){
 
-    if((nb_lignes < 6 || nb_colonnes <  6) && (nb_colonnes < 5 || nb_lignes < 6 ) ) {printf("grille trop petite\n"); exit(0); return NULL;} // j'ai teste, et la plus petite grille possible est de taille 6x5 (ou 5x6)
+    if((nb_lignes < 5 || nb_colonnes <  6) && (nb_colonnes < 5 || nb_lignes < 6 ) ) {printf("grille trop petite\n"); exit(0); return NULL;} // j'ai teste, et la plus petite grille possible est de taille 6x5 (ou 5x6)
 
     int i, j; // variables de boucle
 
