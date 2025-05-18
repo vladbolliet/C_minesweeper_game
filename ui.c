@@ -114,6 +114,7 @@ void regles_du_jeu(){
         ch = getch();
         if(ch == KEY_RIGHT){ break; }
     }
+    
     endwin();
     
 }
